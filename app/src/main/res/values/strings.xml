@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Info Covid19</string>
+    <string name="txt_todo">TODO</string>
+    <string name="txt_satgas_covid_19">SATGAS COVID-19</string>
+    <string name="txt_nama">Hi! Tiyas Aria</string>
+    <string name="txt_lokasi">Indonesia</string>
+    <string name="txt_update_kasus_corona">Update Kasus Corona</string>
+    <string name="txt_desc">Terakhir di update pada 1 jam Lalu</string>
+    <string name="txt_positif">Positif</string>
+    <string name="txt_sembuh">Sembuh</string>
+    <string name="txt_dirawat">Dirawat</string>
+    <string name="txt_meninggal">Meninggal</string>
+    <string name="txt_update_per_provinsi">Update per-Provinsi</string>
+    <string name="txt_textview">textview</string>
+    <string name="_8000">8000</string>
+    <string name="txt_3130">3130</string>
+    <string name="txt_529">529</string>
+</resources>
